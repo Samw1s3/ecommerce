@@ -27,7 +27,7 @@ Please install all packages before starting. Run both schema files (create.sql &
 To find out more information about this repo please visit my github page https://github.com/Samw1s3/ecommerce
 
 ## Video Link
-
+https://drive.google.com/file/d/1xjMIODG1ntxx-QoGhiEGJ9a2AGSpXbL9/view
 
 ## References
 https://stackoverflow.com/
