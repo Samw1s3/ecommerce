@@ -6,7 +6,7 @@ Web appliation to assit the user to manage products in their company and add / r
 - [Instation Instructions](#installation-instructions)
 - [Usage Instructions](#usage-instructions)
 - [Repository Link](#repository-link)
-- [Hosted Link](#hosted-link) 
+- [Video Link](#video-link) 
 - [References](#references)
 
 ## Installation Instructions
